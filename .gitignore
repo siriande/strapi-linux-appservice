@@ -129,3 +129,4 @@ dist
 build
 .strapi-updater.json
 .strapi-cloud.json
+/.vs/strapi-linux-appservice/CopilotIndices/17.12.68.61481
